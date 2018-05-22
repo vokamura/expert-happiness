@@ -1,7 +1,14 @@
 body {
     color: purple;
+    background-color: black;
 }
 
 p {
     background-color: blue;
+
+}
+
+h1{
+    color: red;
+    font-size: 5em;
 }
